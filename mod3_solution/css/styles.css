@@ -1,0 +1,20 @@
+body{
+    
+    background-color: black;
+    font-family: "oxygen",sans-serif;
+}
+/* Style of Header*/
+/* end of header */
+/*beginning of main content*/
+#main-title{
+    color:ivory;
+    font-style: oblique;
+    font-weight: 700;
+    
+}
+#maincont{
+    margin:20px;
+    background-color:ivory;
+    opacity: .90;
+
+}
